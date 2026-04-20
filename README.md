@@ -1,14 +1,21 @@
-**👋 HI THERE**
+👋**HI THERE**
 
-I'm Willian, a Systems Analysis and Development student at Fatec Indaiatuba, based in Brazil. 
+I'm **Willian Pontieri Shibata**,
+Systems Analysis and Development student at Fatec Indaiatuba, based in Brazil. 
 
--🌱 Currently building a foundation in software development, focused on problem-solving and practical projects.  
+ Currently building a foundation in software development, focused on problem-solving and practical projects.  
 Continuously learning and improving my programming skills. 
 
+____________________________________________________________________________________________________________________________________________________________
+🛠️**SKILLS**
+
+- Currently studying data structures and programming best practices  
+- Learning Python  
+- C language  
 
 ____________________________________________________________________________________________________________________________________________________________
 
-**About me**
+👨‍💻**About me**
 
 - 🎸 I play electric guitar  
 - 🏃‍♂️ Recently started running  
