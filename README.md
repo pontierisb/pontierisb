@@ -13,7 +13,9 @@ ________________________________________________________________________________
 - 🎸 I play electric guitar  
 - 🏃‍♂️ Recently started running  
 - 💻 Interested in learning new tech skills  
-- 🌍 Passionate about learning languages  
+- 🌍 Passionate about learning languages
+- 🗾 Lived in Japan for 11 years  
+- 🇦🇺  Studied abroad in Australia for about 2 years 
 <!--
 **pontierisb/pontierisb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
